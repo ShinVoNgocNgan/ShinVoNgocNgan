@@ -31,12 +31,5 @@ I enjoy solving complex problems and continuously learning about new technologie
 
 ---
 
-## 📫 How to reach me
-
-- 📧 Email: [Email của bạn]
-- 🔗 LinkedIn: [LinkedIn của bạn]
-- 🌐 GitHub: [GitHub của bạn]
-
----
 
 Thank you for visiting my profile! 🚀
