@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm [Tên của bạn]
 
-<!--
-**ShinVoNgocNgan/ShinVoNgocNgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Java Developer | Web Development | Microservices | AWS Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+
+I am a passionate **Java Developer** with a strong foundation in **Web Development**. My expertise lies in building scalable and efficient systems using **Java** and **Spring Boot**. I specialize in developing **microservices architectures** and deploying applications on **AWS** cloud infrastructure.
+
+I enjoy solving complex problems and continuously learning about new technologies and frameworks to improve the quality and performance of my applications.
+
+---
+
+## 💻 Tech Stack
+
+- **Languages:** Java, JavaScript
+- **Frameworks:** Spring Boot, ReactJS
+- **Databases:** MySQL, PostgreSQL
+- **Cloud:** AWS (Amazon Web Services)
+- **Tools:** Docker, Git, Jenkins, Maven
+- **Architecture:** Microservices, RESTful APIs, Event-Driven Architecture
+
+---
+
+## 🌱 What I'm currently learning
+
+- **Serverless Architecture** using AWS Lambda
+- **Event-Driven Microservices** design patterns
+- **Containerization & Orchestration** using Docker & Kubernetes
+
+---
+
+## 📫 How to reach me
+
+- 📧 Email: [Email của bạn]
+- 🔗 LinkedIn: [LinkedIn của bạn]
+- 🌐 GitHub: [GitHub của bạn]
+
+---
+
+Thank you for visiting my profile! 🚀
